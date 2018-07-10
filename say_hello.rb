@@ -3,8 +3,7 @@
 
 def say_hello
   your_name = "jack"
-  my_name = "a computer"
-  puts "Hello #{your_name}! I'm #{my_name}."
+  puts "Hello #{your_name}."
 end
 
 say_hello 
